@@ -40,4 +40,7 @@ Date,Team,Open ML,Current ML,Dyn W%,ML Conf,RL,RL Odds,Cover Pct,Cov Conf,Pred S
 2026-08-15,,,,,,,,,,,,,,,,,,,,
 2026-08-15,TEX,-133.0,-158.0,0.5509999999999999,M,-1.5,100.0,,,4.38,9.5,100.0,,7.17,M. Gore,L,4.43,YRFI,0.54,18:40:00
 2026-08-15,OAK,115.0,136.0,0.449,M,1.5,-121.0,0.7233,,4.58,,-120.0,0.8153,,J. Ginn,R,3.41,,,18:40:00
+2026-08-15,,,,,,,,,,,,,,,,,,,,
+2026-08-15,SD,105.0,106.0,0.4712,L,1.5,-200.0,0.6833,H,4.22,8.5,-105.0,,8.63,W. Peralta,L,3.39,,0.501,19:10:00
+2026-08-15,CLE,-121.0,-118.0,0.5288,L,-1.5,171.0,,,4.43,,-114.0,0.503,,J. Cantillo,L,3.91,,,19:10:00
 2026-08-15,"Favorite (blue)   Underdog (orange)   |   ML Conf / Cov Conf:  H = High (60%+ / 60-72% dogs only)   M = Medium (55-60% ML only)   L = Low (50-55% ML / 50-60% dogs)   -- recalibrated June 2026, 6,203 games; fav cover suppressed   |   Total Prob has no predictive signal -- no confidence shown   |   NRFI/YRFI: informational only (away row) -- sigmoid(-1.3228 + 0.1561*total), AUC=0.538, re-fit June 2026 (2,592 games); re-fit when 3+ seasons available   |   Sims: 5,000 Stage 1  /  3,000 Stage 2",,,,,,,,,,,,,,,,,,,
